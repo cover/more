@@ -5,7 +5,7 @@ require 'rake/rdoctask'
 begin
   require 'jeweler'
   Jeweler::Tasks.new do |gemspec|
-    gemspec.name             = 'ifad-more'
+    gemspec.name             = 'more'
 
     gemspec.summary          = 'LESS on Rails'
     gemspec.description      =
